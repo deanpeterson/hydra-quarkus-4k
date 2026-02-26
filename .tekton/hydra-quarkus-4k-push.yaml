@@ -23,7 +23,7 @@ spec:
   - name: revision
     value: '{{revision}}'
   - name: output-image
-    value: quay-quay-quay-test.apps.salamander.aimlworkbench.com/deanpeterson/hydra-quarkus-4k:{{revision}}
+    value: quay-quay-quay-test.apps.salamander.aimlworkbench.com/rhdh/hydra-quarkus-4k:{{revision}}
   - name: dockerfile
     value: Dockerfile
   pipelineSpec:
